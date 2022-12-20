@@ -19,3 +19,8 @@
 //#define NO_ACTION_TAPPING
 //#define NO_ACTION_ONESHOT
 #define FORCE_NKRO
+
+#define ENCODERS_PAD_A { GP3 }
+#define ENCODERS_PAD_B { GP7 }
+
+#define ENCODER_RESOLUTION 2
