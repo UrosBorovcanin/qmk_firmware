@@ -1,6 +1,6 @@
 {
     "manufacturer": "Uros Borovcanin",
-    "keyboard_name": "Anti-Lagg Numpad",
+    "keyboard_name": "Anti-Lagg 65",
     "maintainer": "UrosBorovcanin",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
@@ -21,7 +21,7 @@
     "url": "",
     "usb": {
         "device_version": "1.0.0",
-        "pid": "0x0000",
+        "pid": "0x0065",
         "vid": "0xFEED"
     },
     "layouts": {
@@ -97,7 +97,7 @@
                 {"matrix": [4, 10], "x": 11, "y": 4},
                 {"matrix": [4, 11], "x": 12, "y": 4},
                 {"matrix": [4, 12], "x": 13, "y": 4},
-                {"matrix": [2, 13], "x": 14, "y": 4},
+                {"matrix": [4, 13], "x": 14, "y": 4},
                 {"matrix": [4, 14], "x": 15, "y": 4}
             ]
         }
