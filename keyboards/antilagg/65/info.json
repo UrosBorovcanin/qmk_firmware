@@ -106,7 +106,7 @@
 		"pin": "GP26"
 	},
     "rgb_matrix": {
-        "driver": "WS2812",
+        "driver": "ws2812",
         "layout": [
             { "flags": 4, "matrix": [0, 13], "x": 202, "y": 0 },
             { "flags": 4, "matrix": [0, 12], "x": 180, "y": 0 },
